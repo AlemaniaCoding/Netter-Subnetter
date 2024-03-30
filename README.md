@@ -1,3 +1,4 @@
+CurrentVersion=2.2
 # Netter-Subnetter-v2.2
 Eine gratis Software, die für dich das Subnetting übernehmen soll. Perfekt für die Berufsschule oder für die Arbeit.😉
 
